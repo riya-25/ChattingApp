@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#a4c639</color>
+    <color name="colorPrimaryDark">#e4ecbf</color>
+    <color name="colorAccent">#0009ff</color>
+    <color name="colorAccentLight">#009688</color>
+
+    <color name="text_dark">#444</color>
+    <color name="text_light">#bbb</color>
+    <color name="text_text_message">#222</color>
+
+    <color name="background_image">#eee</color>
+    <color name="background_own_message">#22009688</color>
+    <color name="background_avatar_default">#008756</color>
+    <color name="background_chat_default">#244447</color>
+</resources>
